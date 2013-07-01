@@ -1,0 +1,23 @@
+{
+"notifications": {
+    "9fe0dc20-ccef-11e2-8b8b-0800200c9a66" : {
+      "id": "9fe0dc20-ccef-11e2-8b8b-0800200c9a66",
+      "origin": "TE-Dev/Windows PC",
+      "timestamp": "Tue, 04 Jun 2013 10:25:53 GMT",
+      "type": "permissionRequest",
+      "data":{
+        "hello": "world"
+      }
+    },
+  "ffd6ecf0-cd1c-11e2-8b8b-0800200c9a66" : {
+      "id": "ffd6ecf0-cd1c-11e2-8b8b-0800200c9a66",
+      "origin": "TE-Dev/Windows PC",
+      "timestamp": "Tue, 04 Jun 2013 14:25:53 GMT",
+      "type": "permissionRequest",
+      "data":{
+        "testing": "123456"
+      },
+      "requiresSync": true
+  }
+  }
+}
